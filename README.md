@@ -2,21 +2,23 @@
 
 # ALAA MOHAMED
 
-### Frontend Developer | Junior Backend Developer (Django)
+### Frontend Developer · Junior Backend Developer (Django)
 
-Building responsive, interactive, and user-focused web applications.
+Building responsive, interactive and user-focused web applications.
 
-<p>
-  <a href="https://alaamohamed2002.github.io/portfolio-site/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/alaa-mohamed-8326a72a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:alaamohamed19072002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<br>
+
+<a href="https://alaamohamed2002.github.io/portfolio-site/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/alaa-mohamed-8326a72a6/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:alaamohamed19072002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:00A896&height=120&section=header" width="100%" alt="Header">
 
@@ -28,7 +30,7 @@ Building responsive, interactive, and user-focused web applications.
 
 I'm **Alaa Mohamed**, a Computer Science graduate and **Frontend Developer** with growing experience in **Python and Django backend development**.
 
-I enjoy turning ideas and designs into responsive, interactive web experiences and building practical web applications with clean structure and user-focused interfaces.
+I enjoy turning ideas and designs into responsive, interactive web experiences and building practical applications with clean structure and user-focused interfaces.
 
 - 🎓 Computer Science Graduate — Assiut University
 - 💻 Frontend: HTML5, CSS3, JavaScript, Bootstrap
@@ -43,17 +45,7 @@ I enjoy turning ideas and designs into responsive, interactive web experiences a
 
 <div align="center">
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend technologies">
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=python,django,sqlite" alt="Backend and database technologies">
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django,sqlite,git,github,vscode" alt="Tech Stack">
 
 </div>
 
@@ -69,9 +61,9 @@ I enjoy turning ideas and designs into responsive, interactive web experiences a
 
 **Medical MRI Analysis Platform**
 
-Django-based graduation project focused on backend workflows for MRI image analysis, user authentication, role-based access, patient management, MRI uploads, and analysis/report functionality.
+Django-based graduation project focused on backend workflows for MRI image analysis, authentication, role-based access, patient management, MRI uploads, analysis workflows and report functionality.
 
-**Tech:** Python · Django · Django REST Framework · Machine Learning
+**Stack:** Python · Django · Django REST Framework · Machine Learning
 
 [**View Repository →**](https://github.com/Alaamohamed2002/MRI_Analysis_System)
 
@@ -85,7 +77,7 @@ Django-based graduation project focused on backend workflows for MRI image analy
 
 Healthcare-focused frontend project with responsive layouts and interactive prescription and medication-management screens.
 
-**Tech:** HTML5 · CSS3 · JavaScript
+**Stack:** HTML5 · CSS3 · JavaScript
 
 [**Repository →**](https://github.com/Alaamohamed2002/Frontend-Projects/tree/main/MediScan)  
 [**Live Demo →**](https://alaamohamed2002.github.io/Frontend-Projects/MediScan/)
@@ -100,9 +92,9 @@ Healthcare-focused frontend project with responsive layouts and interactive pres
 
 **Interactive Task Management App**
 
-A responsive task-management application with task creation, priorities, due dates, filtering, statistics, and persistent data using Local Storage.
+Responsive task-management application with task creation, priorities, due dates, filtering, statistics and persistent Local Storage data.
 
-**Tech:** HTML5 · CSS3 · JavaScript · Local Storage
+**Stack:** HTML5 · CSS3 · JavaScript · Local Storage
 
 [**Repository →**](https://github.com/Alaamohamed2002/Frontend-Projects/tree/main/workflow_Task)  
 [**Live Demo →**](https://alaamohamed2002.github.io/Frontend-Projects/workflow_Task/)
@@ -115,9 +107,9 @@ A responsive task-management application with task creation, priorities, due dat
 
 **Responsive Sports Website**
 
-A responsive football club website featuring structured sections, interactive galleries, visual content, and CSS animations.
+Responsive football club website featuring structured sections, interactive galleries, visual content and CSS animations.
 
-**Tech:** HTML5 · CSS3 · JavaScript
+**Stack:** HTML5 · CSS3 · JavaScript
 
 [**Repository →**](https://github.com/Alaamohamed2002/Frontend-Projects/tree/main/AlahlyWebsiteTest)  
 [**Live Demo →**](https://alaamohamed2002.github.io/Frontend-Projects/AlahlyWebsiteTest/)
@@ -132,9 +124,9 @@ A responsive football club website featuring structured sections, interactive ga
 
 **Business Landing Page**
 
-A responsive business website with service sections, pricing components, and a professional user interface.
+Responsive business website with service sections, pricing components and a professional user interface.
 
-**Tech:** HTML5 · CSS3 · JavaScript
+**Stack:** HTML5 · CSS3 · JavaScript
 
 [**Repository →**](https://github.com/Alaamohamed2002/Frontend-Projects/tree/main/BlueTech)  
 [**Live Demo →**](https://alaamohamed2002.github.io/Frontend-Projects/BlueTech/)
@@ -147,9 +139,9 @@ A responsive business website with service sections, pricing components, and a p
 
 **Responsive Dashboard UI**
 
-A dashboard interface focused on navigation, data presentation, statistics, and reusable UI sections.
+Dashboard interface focused on navigation, data presentation, statistics and reusable UI sections.
 
-**Tech:** HTML5 · CSS3 · JavaScript
+**Stack:** HTML5 · CSS3 · JavaScript
 
 [**Repository →**](https://github.com/Alaamohamed2002/Frontend-Projects/tree/main/Alaa-DASH)
 
@@ -159,19 +151,32 @@ A dashboard interface focused on navigation, data presentation, statistics, and 
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Overview
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alaamohamed2002&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="Alaa's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Alaamohamed2002&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" height="165" alt="GitHub Statistics">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaamohamed2002&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaamohamed2002&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Top Languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Alaamohamed2002&hide_border=true&theme=transparent" alt="GitHub Contribution Streak">
 
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Alaamohamed2002&hide_border=true&theme=transparent" alt="GitHub contribution streak">
+<!--
+This animation is generated by GitHub Actions.
+After adding the workflow described below, the snake will appear here.
+-->
+
+<img src="https://raw.githubusercontent.com/Alaamohamed2002/Alaamohamed2002/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
 
@@ -179,21 +184,31 @@ A dashboard interface focused on navigation, data presentation, statistics, and 
 
 ## 🌱 Current Focus
 
-- Improving Django backend development
-- Building REST APIs with Django REST Framework
-- Strengthening frontend architecture and responsive UI development
-- Building practical full-stack web applications
+```text
+Frontend Development
+        ↓
+Responsive UI · JavaScript · Interactive Web Experiences
+
+Backend Development
+        ↓
+Python · Django · Django REST Framework · REST APIs
+```
 
 ---
 
 ## 💡 Soft Skills
 
-`Problem Solving` · `Adaptability` · `Teamwork` · `Communication`  
+<div align="center">
+
+`Problem Solving` · `Adaptability` · `Teamwork` · `Communication Skills`
+
 `Time Management` · `Fast Learning` · `Attention to Detail`
+
+</div>
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 Let's Connect
 
 <div align="center">
 
@@ -210,11 +225,7 @@ A dashboard interface focused on navigation, data presentation, statistics, and 
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A896,100:111827&height=100&section=footer" width="100%" alt="Footer">
 
