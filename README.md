@@ -1,136 +1,130 @@
 <div align="center">
 
-<br />
+# ALAA MOHAMED
 
-<h1 style="font-weight:600; letter-spacing:2px;">ALAA MOHAMED</h1>
+<a href="https://readme-typing-svg.demolab.com/">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=600&height=35&lines=Frontend+Developer;Junior+Backend+Developer+%7C+Django;Building+clean+%26+responsive+web+experiences"
+    alt="Typing animation"
+  >
+</a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&pause=1500&color=2DD4BF&center=true&vCenter=true&width=520&letterSpacing=1px&lines=Frontend+Developer;Junior+Backend+Developer+%7C+Django;Building+clean+%26+responsive+web+experiences;Turning+ideas+into+practical+web+applications" alt="Typing SVG" />
+<br>
 
-<br />
-
-<sub>
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a> &nbsp;·&nbsp;
-<a href="https://github.com/Alaamohamed2002">GitHub</a> &nbsp;·&nbsp;
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:YOUR_EMAIL">Email</a>
-</sub>
+<a href="https://alaamohamed2002.github.io/portfolio-site/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=2DD4BF" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://github.com/Alaamohamed2002">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=2DD4BF" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn">
+</a>
 
 </div>
 
-<br />
+<br>
+
+---
 
 ### About
 
-Frontend Developer and Junior Backend Developer focused on Django, based in Assiut, Egypt. Studying Computer Science at Assiut University, currently building toward a combined frontend + Python/Django backend skill set.
+Frontend Developer focused on building clean, responsive and interactive web interfaces.
 
-<br />
+Currently expanding my backend skills with **Python and Django** and working on practical web applications.
 
-### Stack
+**Based in Assiut, Egypt**
+
+---
+
+### Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,py,django,git,github,vscode&theme=dark" alt="tech stack icons" />
-<br />
-<sub>Also working with: SQLite · Django REST Framework</sub>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django,sqlite,git,github,vscode&perline=10" alt="Tech Stack">
+
 </div>
 
-<br />
-
-### Current Focus
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Frontend**
-- Responsive UI
-- JavaScript
-- Interactive web experiences
-
-</td>
-<td valign="top" width="50%">
-
-**Backend**
-- Python
-- Django
-- Django REST Framework
-
-</td>
-</tr>
-</table>
-
-<br />
+---
 
 ### Selected Projects
 
-<!--
-  To add a screenshot for a project, insert the following line directly
-  under its row (or above the table) and replace YOUR_IMAGE_HERE:
-  ![project name](YOUR_IMAGE_HERE)
--->
-
-**Brain Scan Hub**
-Medical MRI analysis platform — graduation project. Backend contribution: authentication, role-based access, patient management, MRI uploads, and report functionality.
+**🧠 Brain Scan Hub**  
+MRI analysis and medical web system — graduation project.  
 `Python` `Django` `Machine Learning`
-Repository coming soon
 
-**MediScan**
-Healthcare web app focused on prescription and medication-management interfaces.
+> Repository link will be added.
+
+---
+
+**💊 MediScan**  
+Healthcare web application focused on prescription and medication-management interfaces.  
 `HTML` `CSS` `JavaScript`
+
 [Repository](https://github.com/Alaamohamed2002/Frontend-Projects/tree/main/MediScan) · [Live Demo](https://alaamohamed2002.github.io/Frontend-Projects/MediScan/)
 
-**TaskFlow**
-Interactive task-management app with priorities, due dates, filtering, statistics, and local storage.
+---
+
+**✅ TaskFlow**  
+Interactive task-management application with priorities, due dates, filtering, statistics and Local Storage.  
 `HTML` `CSS` `JavaScript`
+
 [Repository](https://github.com/Alaamohamed2002/Frontend-Projects/tree/main/workflow_Task) · [Live Demo](https://alaamohamed2002.github.io/Frontend-Projects/workflow_Task/)
 
-**AlAhly Website**
-Responsive football club website.
+---
+
+**🔴 AlAhly Website**  
+Responsive football club website with interactive elements and CSS animations.  
 `HTML` `CSS` `JavaScript`
+
 [Repository](https://github.com/Alaamohamed2002/Frontend-Projects/tree/main/AlahlyWebsiteTest) · [Live Demo](https://alaamohamed2002.github.io/Frontend-Projects/AlahlyWebsiteTest/)
 
-**BlueTech**
-Responsive business landing page.
+---
+
+**🔵 BlueTech**  
+Responsive business landing page with services and pricing sections.  
 `HTML` `CSS` `JavaScript`
+
 [Repository](https://github.com/Alaamohamed2002/Frontend-Projects/tree/main/BlueTech) · [Live Demo](https://alaamohamed2002.github.io/Frontend-Projects/BlueTech/)
 
-**Alaa-DASH**
-Responsive dashboard interface.
+---
+
+**📊 Alaa-DASH**  
+Responsive dashboard interface for statistics and data presentation.  
 `HTML` `CSS` `JavaScript`
+
 [Repository](https://github.com/Alaamohamed2002/Frontend-Projects/tree/main/Alaa-DASH) · [Live Demo](https://alaamohamed2002.github.io/Frontend-Projects/Alaa-DASH/)
 
-<br />
+---
 
-### Activity
+### Currently Learning
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alaamohamed2002/Alaamohamed2002/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alaamohamed2002/Alaamohamed2002/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Alaamohamed2002/Alaamohamed2002/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-</div>
+`Python` · `Django` · `Django REST Framework` · `JavaScript`
 
-<br />
+---
 
 ### Soft Skills
 
-<sub>
-`Problem Solving` `Adaptability` `Teamwork` `Communication` `Time Management` `Fast Learning` `Attention to Detail`
-</sub>
+`Problem Solving` · `Adaptability` · `Teamwork` · `Communication`
 
-<br /><br />
+`Time Management` · `Fast Learning` · `Attention to Detail`
+
+---
 
 <div align="center">
 
-**Let's Connect**
+### Let's Build Something Great.
 
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a> &nbsp;·&nbsp;
-<a href="https://github.com/Alaamohamed2002">GitHub</a> &nbsp;·&nbsp;
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="https://alaamohamed2002.github.io/portfolio-site/">
+  Portfolio →
+</a>
 
-<br /><br />
+&nbsp;&nbsp;·&nbsp;&nbsp;
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=12&pause=3000&color=94A3B8&center=true&vCenter=true&width=400&lines=Thanks+for+visiting" alt="footer" />
+<a href="https://github.com/Alaamohamed2002">
+  GitHub →
+</a>
 
 </div>
