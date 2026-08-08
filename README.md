@@ -159,23 +159,7 @@ A dashboard interface focused on navigation, data presentation, statistics, and 
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alaamohamed2002&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="Alaa's GitHub stats">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaamohamed2002&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages">
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Alaamohamed2002&hide_border=true&theme=transparent" alt="GitHub contribution streak">
-
-</div>
-
----
 
 ## 🌱 Current Focus
 
