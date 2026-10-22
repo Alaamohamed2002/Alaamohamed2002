@@ -1,41 +1,36 @@
 <div align="center">
-
-<img src="./profile-dashboard.svg" alt="Alaa Mohamed developer dashboard" width="100%">
-
+  <img src="./profile-dashboard.svg" alt="Alaa Mohamed developer dashboard" width="100%">
 </div>
 
-👋 Welcome
-I'm Alaa Mohamed, a Frontend Developer with growing experience in Python and Django backend development. I enjoy building responsive interfaces and practical web applications.
-🔗 Connect with me
-- Portfolio: alaamohamed2002.github.io/portfolio-site
-- LinkedIn: Alaa Mohamed
-- GitHub: Alaamohamed2002
-- Email: alaamohamed19072002@gmail.com
-🚀 Projects
-The SVG above is a visual dashboard. Use the links below to open the actual repositories and live demos.
+Alaa Mohamed
+Frontend Developer | Junior Backend Developer (Django)
 
-Brain Scan Hub — Graduation Project
-Django backend for a medical MRI analysis platform, including authentication, role-based access, patient management, MRI uploads, analysis workflows, and report-related functionality.
-- Repository: Open Brain Scan Hub
+I build responsive interfaces and practical web applications, and I'm expanding my backend skills with Python and Django.
+Real links
+These are clickable Markdown links. The text drawn inside the SVG above is only part of the image and cannot act as separate links.
+- Portfolio: Visit my portfolio
+- LinkedIn: Connect with me
+- GitHub: View my GitHub profile
+- Email: Contact me
+Projects
 MediScan — Healthcare Web Application
-Healthcare application featuring prescription uploads, medication plans, schedules, notifications, and an AI assistant.
-- Repository: Open MediScan
+A Django-based healthcare application with prescription uploads, medication plans, schedules, notifications, and AI-assistant work in progress.
+- Open the MediScan repository
 TaskFlow — Task Management Application
-Task creation, priorities, due dates, filtering, statistics, and persistent browser storage.
-- Repository: Open TaskFlow
-- Live demo: Try TaskFlow
+A browser-based task manager with task creation, priorities, due dates, filtering, statistics, and Local Storage persistence.
+- Open the TaskFlow source code
+- Try the TaskFlow live demo
 BlueTech — Business Landing Page
-A responsive business website with service sections, pricing components, and a clean interface.
-- Repository: Open BlueTech
-- Live demo: Visit BlueTech
+A responsive business landing page with service sections, pricing components, and a clean interface.
+- Open the BlueTech source code
+- Try the BlueTech live demo
 AlAhly Website — Sports Website
-A responsive football club website featuring structured sections, visual content, galleries, and CSS animations.
-- Repository: Open AlAhly Website
-- Live demo: Visit AlAhly Website
-Alaa-DASH — Dashboard UI
-A dashboard interface focused on navigation, statistics, data presentation, and reusable UI sections.
-- Repository: Open Alaa-DASH
+A responsive football-club website with structured sections, visual content, galleries, and CSS animations.
+- Open the AlAhly source code
+- Try the AlAhly live demo
+Brain Scan Hub — Graduation Project
+Django-based backend for an MRI-analysis workflow, including authentication, role-based access, patient management, MRI uploads, and reporting functionality.
+- Repository link not added yet: add the exact public GitHub repository URL here so visitors are not sent to an incorrect destination.
 <div align="center">
-
-Code · Learn · Build · Grow
+  **Code · Learn · Build · Grow**
 </div>
